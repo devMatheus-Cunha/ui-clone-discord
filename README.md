@@ -8,9 +8,6 @@ UI Clone - Discord
 
 ## Participants
 
-| :------------------------------------------------------------------------------------------------------------------------: |
-
-
 | [Matheus Gomes](https://github.com/devMatheus-Gomes)
 
 ## Techs
@@ -18,12 +15,6 @@ UI Clone - Discord
 - [x] React.js
 - [x] Styled Components
 - [x] TypeScript
-
-## Ideas to implement
-
-- [ ] Add "scroll to new messages" button
-- [ ] Add state management (switch between Servers and Channels)
-- [ ] Back-end integration (roles, permissions, mentions, friend requests and more)
 
 ## Usage
 
