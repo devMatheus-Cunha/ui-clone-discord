@@ -1,25 +1,38 @@
 <h1 align="center">
-UI Clone - Discord
+UI Clone - Discord Responsive
 </h1>
 
-<p align="center">Discord UI Clone (partial) for study purposes.</p>
+<p align="center">Responsive Discord UI Clone (partial) for study purposes.</p>
 
 <hr>
 
-## Participants
+## 🧪 Technologies
 
-| [Matheus Gomes](https://github.com/devMatheus-Gomes)
-
-## Techs
+This project was developed with the following technologies:
 
 - [x] React.js
 - [x] Styled Components
 - [x] TypeScript
 
-## Usage
+## 🚀 How to run
 
-1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn start` and access `http://localhost:3000`.<br />
+Clone the project and access the project folder.
+
+```bash
+$ git clone https://github.com/devMatheus-Gomes/ui-clone-discord.git
+$ cd ui-clone-discord
+```
+
+To start it, follow the steps below:
+```bash
+# Install the dependencies
+$ npm i
+
+# Start the project
+$ npm start
+
+```
+The app will be available in your browser at http://localhost:3000.
 
 ## Contributing
 
