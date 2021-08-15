@@ -2,11 +2,15 @@ import React from 'react';
 
 import { Container, Role, User, Avatar } from './styles';
 
+// interface 
 interface UserProps {
   nickname: string;
   isBot?: boolean;
 }
 
+// -------------------------------------------------
+// Export Function
+// -------------------------------------------------
 const UserRow: React.FC<UserProps> = ({ nickname, isBot }) => {
   return (
     <User>
@@ -19,6 +23,9 @@ const UserRow: React.FC<UserProps> = ({ nickname, isBot }) => {
   );
 };
 
+// -------------------------------------------------
+// Export Function
+// -------------------------------------------------
 const UserList: React.FC = () => {
   return (
     <Container>

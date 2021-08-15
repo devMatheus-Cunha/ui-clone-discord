@@ -1,5 +1,6 @@
 import React from 'react';
 
+// styles 
 import {
   Container,
   Profile,
@@ -11,6 +12,9 @@ import {
   SettingsIcon,
 } from './styles';
 
+// -------------------------------------------------
+// Export Function
+// -------------------------------------------------
 const UserInfo: React.FC = () => {
   return (
     <Container>

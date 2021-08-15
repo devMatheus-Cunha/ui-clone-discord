@@ -1,8 +1,14 @@
 import React from 'react';
 
+// component 
 import ServerButton from '../ServerButton';
 
+// styles
 import { Container, Separator } from './styles';
+
+// -------------------------------------------------
+// Export Function
+// -------------------------------------------------
 
 const ServerList: React.FC = () => {
   return (
